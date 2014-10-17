@@ -2,6 +2,7 @@ vk-to-spotify
 =============
 
 Part 0: Install libs
+--------------------
 
 First, install libspotify (you need <b>premium spotify account</b> for that, sorry).  
 see https://pyspotify.mopidy.com/en/latest/installation/
@@ -9,7 +10,7 @@ see https://pyspotify.mopidy.com/en/latest/installation/
 Then, install dependencies:
   pip install -r requirements.txt
 
-If spotify pip install fails, try to install it like this:
+If pyspotify pip install fails, try to install it like this:
 
     pip install --pre pyspotify
 
