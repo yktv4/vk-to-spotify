@@ -17,7 +17,7 @@ If pyspotify pip install fails, try to install it like this:
 Part 1: dump vk.com tracks
 --------------------------
 
-You need to set `VK_APPID`, `VK_EMAIL`, `VK_PASS` in `vk_save.py`.
+You need to set `VK_ID`, `VK_EMAIL`, `VK_PASS` in `vk_save.py`.
 Then (with virtualenv activated):
   
     python vk_save.py
